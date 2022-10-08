@@ -6,11 +6,11 @@ Laravel 9 - AdminKit Blank Page and AdminLTE Login - Bootstrap 5 Admin Template
 - Bootstrap Admin Template - AdminKit
 - Bootstrap Admin Template - AdminLTE
 ----
-###Descargar 
+### Descargar 
 #### **Laravel 9 + AdminKit and AdminLTE - Bootstrap Admin Template**
 Clonar repositorio  `$ git clone https://github.com/jmpm259/laravel-adminkit.git`
 
-###Instalación
+### Instalación
 Instalar Laravel `$ composer install`
 
 Copiar archivo .env `$ cp .env.example .env`
@@ -19,7 +19,8 @@ Generar nueva key `$ php artisan key:generate`
 
 Instalar node_modules `$ npm install`
 
-Ejecutar vite para generar los archivos CSS y JS 
+Ejecutar vite para generar los archivos CSS y JS
+
 `$ npm run build`  o `$ npm run dev`
 
 Configurar las credenciales de tu DB,  ejecutar las migraciones y los seeder.
@@ -27,7 +28,7 @@ Configurar las credenciales de tu DB,  ejecutar las migraciones y los seeder.
 `$ php artisan migrate --seed`
 
 ----
-###Imágenes
+### Imágenes
 
 Login
 
@@ -48,7 +49,7 @@ Dashboard - (blank page)
 > Adminkit Dashboard.
 
 ----
-###Fuentes de los recursos utilizados
+### Fuentes de los recursos utilizados
 
 **[Framework Laravel](https://github.com/laravel/laravel)**
 
@@ -61,3 +62,4 @@ Dashboard - (blank page)
 **[Bootstrap Admin Template AdminLTE](https://github.com/ColorlibHQ/AdminLTE)**
 
 `AdminLTE` <https://github.com/ColorlibHQ/AdminLTE>
+
