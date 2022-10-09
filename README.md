@@ -11,13 +11,13 @@ Laravel 9 - AdminKit Blank Page and AdminLTE Login - Bootstrap 5 Admin Template
 Clonar repositorio  `$ git clone https://github.com/jmpm259/laravel-adminkit.git`
 
 ### Instalación
-Instalar Laravel `$ composer install`
+**Instalar Laravel** `$ composer install`
 
 Copiar archivo .env `$ cp .env.example .env`
 
 Generar nueva key `$ php artisan key:generate`
 
-Instalar node_modules `$ npm install`
+**Instalar node_modules** `$ npm install`
 
 Ejecutar vite para generar los archivos CSS y JS
 
@@ -32,19 +32,19 @@ Configurar las credenciales de tu DB,  ejecutar las migraciones y los seeder.
 
 Login
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK7pTVDYAsPf7ehfDBXxJA_KD6BV4CRGw5NdKJ2KJu88JscU1iHOCpENtYO4CoNL2z4C9wGRlRBtqQVb52Jmumq_P_SnFUrrtEACNfSNhjTDlt3SQbvPKkjQujy9fIdRDLc6A5iCti71sspd0_FSxWAD0yF_ZkrIsifoKoR_-E0kL1gpukl82F3nXGpw/s16000/login.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg14G19ru6Cq_oVgGGYb9H7zGSZbzXzAJCQskRIxHqetaDZeZIuJevVyAkV8BQ_D_nztt7CwtF7NJVSdgFNxfT5MEluMvJeSKaiUr4Rltn-2dLj5CzKgktywytygqafiKi5kuVK9nu2g8Qfi8frF5d1kf6-3jeUtFoyIUidEvX0XJHSnqrN8vYj-sjmFg/s16000/login.png)
 
 > AdminLTE Login.
 
 Register
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA6k-6ah_8RI70PVBBibeDSKQrBxgz16Jli8FXepoKHoRzqYwKNB8M8OQuxtSaUCPbgCVa7pA0OUtYZXvQRND8lb38enzEjRnXN4_95GivQ39uDbIZgP3zaVJLbzz7eN2XlHCnTTMqd13GkThKAA8WAQkSLtRhkyP8GSCOPXwwsaha1EbHFaABTTLcXw/s16000/register.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSUNHZOaKjRYsRCuER4PEji4XOPmZVXU0W0UKVaqDkqTw4rNsLWRTCuVOfoZnyttM9QFFoGq3DWpFF1yRJbcMUa2XsgMTXJjLxJ2KUxd-jxcsA2MlI2hZZYNLdXHTCsdJ_MNfpSe0X1MaKyfq9qfNKL0QchtEvsCUqIG_Nfii4fc4s1a9p0vY3QvkRg/s16000/register.png)
 
 > AdminLTE Register.
 
 Dashboard - (blank page)
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlA-5jV8KrDRgA831AJKiDyNrY3yAMDuLGpq4-sgU-WvwiWqajVZW_zWJeVz3NSdcL_k4uVMpO0wUTwhYHtzYHPF0OVw2lrK86LCO_T9rBIA3-itpM0ZgxiOMqK2vGyholsSXtKsOUujXDx4z3S0GCnAbiF6_T2Xlnha9cOMjdTprk6o0_8uMiEsVKWA/s16000/home.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh1naxywKj4ii7gH6foEWX-sFtXIOsakmNnUKkptb-4eD2MeGhtmaSagyJwbwF9zNx0GSZ_qR07KIa3ww5nks30oHgch6ETjKE4RBiDDVMX3cRpwngmAqyLt5vAbVjloBIbxR1G776cqO4NAxB9Y_G5UuuJ96nyKKWigzcLKio9Bs-r0WEAA9YQATaDg/s16000/main.png)
 
 > Adminkit Dashboard.
 
@@ -62,4 +62,3 @@ Dashboard - (blank page)
 **[Bootstrap Admin Template AdminLTE](https://github.com/ColorlibHQ/AdminLTE)**
 
 `AdminLTE` <https://github.com/ColorlibHQ/AdminLTE>
-
